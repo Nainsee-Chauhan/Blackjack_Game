@@ -1,0 +1,32 @@
+body{
+    background-image: url(card.jpg);
+    text-align:center;
+    margin-top: 65px;
+    color: white;
+    font-size:xx-large;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: goldenrod;
+    font-weight: bolder;
+    font-size: 80px;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    border: none;
+    padding: 12px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+    color: rgb(16, 15, 15);
+    font-weight:bolder;
+    font-size: 15px;
+    width: 150px;
+    margin-top: 30px;
+    background-color: goldenrod;
+}
